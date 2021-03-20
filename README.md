@@ -1,2 +1,2 @@
 # springboot-keyauth
-We will create one small spring boot application, will impose API key-auth security and would be accessing endpoint using Postman tool.
+One small spring boot application, with API key-auth security imposed and would be accessing endpoint using Postman tool.
